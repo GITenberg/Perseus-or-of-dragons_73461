@@ -1,0 +1,39 @@
+_repo: Perseus-or-of-dragons_73461
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stokes, H. F. Scott (Henry Folliott Scott)
+    aliases:
+    - Scott-Stokes, Henry Folliott
+    - Stokes, Henry Folliott Scott
+    birthdate: 1896
+    deathdate: 1976
+    gutenberg_agent_id: '57081'
+    url: http://www.gutenberg.org/2009/agents/57081
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Folliott_Scott-Stokes
+description: ''
+gutenberg_issued: '2024-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73461'
+  lccn: '25015446'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015004975143
+pgterms:marc905: 20210905062050scottstoke
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Tim Lindell, Donald Cummings and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bE. P. Dutton & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Dragons'
+- !lcsh 'Perseus (Greek mythological character)'
+- !lcc 'GR'
+- GITenberg
+title: Perseus; or, of dragons
+url: http://www.gutenberg.org/ebooks/73461
