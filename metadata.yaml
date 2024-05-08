@@ -1,5 +1,8 @@
 _repo: Perseus-or-of-dragons_73461
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73461-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Stokes, H. F. Scott (Henry Folliott Scott)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57081
     wikipedia: https://en.wikipedia.org/wiki/Henry_Folliott_Scott-Stokes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73461#Perseus-or-of-dragons
 gutenberg_issued: '2024-04-25'
 gutenberg_type: Text
 identifiers:
